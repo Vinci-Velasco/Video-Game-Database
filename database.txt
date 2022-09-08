@@ -1,0 +1,22 @@
+Spelunky HD,Roguelite,Derek Yu,2013,90.000000
+Spelunky 2,Roguelite,Derek Yu,2020,91.000000
+Super Smash Bros Ultimate,Fighting/Party,Nintendo,2018,93.000000
+Animal Crossing: New Horizons,Life simulation,Nintendo,2020,90.000000
+Rocket League,Sports,Psyonix,2015,86.000000
+Among Us,Social Deduction,Innersloth,2018,85.000000
+Call of Duty: Warzone,Battle Royale,Activision,2020,80.000000
+The Legend of Zelda: Breath of the Wild,Action-Adventure,Nintendo,2017,97.000000
+Dark Souls,Action-RPG,FromSoftware,2011,85.000000
+Dark Souls II,Action-RPG,FromSoftware,2014,91.000000
+Dark Souls III,Action-RPG,FromSoftware,2016,89.000000
+Bloodborne,Action-RPG,FromSoftware,2015,92.000000
+Sekiro: Shadows Die Twice,Action-RPG,FromSoftware,2019,88.000000
+The Binding Of Isaac,Roguelike,Edmund McMillen,2011,84.000000
+The Binding of Isaac: Rebirth,Roguelike,Nicalis,2014,86.000000
+Valorant,FPS,Riot Games,2020,80.000000
+League of Legends,MOBA,Riot Games,2009,78.000000
+Cyberpunk 2077,Action-RPG,CD Projekt Red,2020,85.000000
+The Elder Scrolls V: Skyrim,Action-RPG,Bethesda,2011,94.000000
+Fallout 3,Action-RPG,Bethesda,2008,91.000000
+Fallout: New Vegas,Action-RPG,Obsidian,2010,84.000000
+Fallout 4,Action-RPG,Bethesda,2015,84.000000
